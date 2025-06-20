@@ -22,9 +22,8 @@ L'application est développée principalement en **HTML**, **CSS**, **JavaScript
 ## 🛠️ Technologies utilisées
 
 - HTML5 / CSS3
-- JavaScript (Vanilla)
-- [Facultatif] PHP & MySQL pour le backend
-- Bootstrap (pour le design responsive)
+- JavaScript 
+  
 
 ---
 
