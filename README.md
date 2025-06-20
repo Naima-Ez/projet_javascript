@@ -4,7 +4,7 @@
 
 Ce projet est une application web simple qui permet la **gestion des produits** (ajout, modification, suppression et affichage) à l'aide du concept **CRUD** (Create, Read, Update, Delete).
 
-L'application est développée principalement en **HTML**, **CSS**, **JavaScript** pour la partie front-end, et peut être reliée à un **backend** (ex: PHP/MySQL) pour stocker les données de manière persistante.
+L'application est développée principalement en **HTML**, **CSS**, **JavaScript** pour la partie front-end.
 
 ---
 
