@@ -14,8 +14,7 @@ L'application est développée principalement en **HTML**, **CSS**, **JavaScript
 - 📄 **Afficher** la liste des produits
 - ✏️ **Modifier** les produits existants
 - ❌ **Supprimer** un produit
-- 🔍 **Recherche** par nom ou catégorie
-- 💾 Sauvegarde des données localement (via `localStorage`) ou en base de données
+- 💾 Sauvegarde des données localement (via `localStorage`)e de données
 
 ---
 
