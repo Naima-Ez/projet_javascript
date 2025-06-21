@@ -26,5 +26,3 @@ L'application est développée principalement en **HTML**, **CSS**, **JavaScript
 
 ---
 
-## 📂 Structure du projet
-
